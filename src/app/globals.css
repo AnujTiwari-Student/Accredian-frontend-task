@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "micu";
+  src: url("../assets/fonts/micu.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "absans";
+  src: url("../assets/fonts/Absans-Regular.woff") format("woff");
+}
+
+.text-logo {
+  font-family: "micu";
+}
+.text-link {
+  font-family: "absans";
+}
