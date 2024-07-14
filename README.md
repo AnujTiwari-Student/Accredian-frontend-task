@@ -81,8 +81,8 @@ frontend
 ```bash
   npm run dev
 ```
-# Hi, I'm Aditya! 👋
+# Hi, I'm Anuj! 👋
 
 Creative, passionate, and a proficient Full-Stack MERN developer. Leveraging skills to enhance backend and front-end development skills to build complex and creative websites.
 
-https://github.com/adityamandal-Developer
+https://github.com/AnujTiwari-Student
