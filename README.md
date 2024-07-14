@@ -2,7 +2,7 @@
 # Accredian-Assignment Front-end
 [Accredian-frontend-task](https://accredian-frontend-task-omega-five.vercel.app/) is a webapp where users can create and redeem referral code seamlessly.
 
-- [backend](https://github.com/adityamandal-Developer/Accredian-Backend-task) 
+- [backend](https://github.com/AnujTiwari-Student/Accredian-Backend-task) 
 
 #### NOTE
 Please use a working email to test this app, as you will get your code and verification in email
