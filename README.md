@@ -1,4 +1,3 @@
-
 # Accredian-Assignment Front-end
 
 ![Screenshot 2024-07-17 163839](https://github.com/user-attachments/assets/1535399f-a46d-4ab2-92b4-8dddddce74ac)
